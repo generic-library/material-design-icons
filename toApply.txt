@@ -1,0 +1,36 @@
+
+git clone https://github.com/google/material-design-icons.git
+cd material-design-icons/
+trash index.js gulpfile.babel.js bower.json package.json README.md
+find . -name "*.png" | xargs trash
+find . -name "*.json" | xargs trash
+find . -name "*18px.svg" | xargs trash
+find . -name "*36px.svg" | xargs trash
+find . -name "*24px.svg" | xargs trash
+find . -name "*.css" | xargs trash
+find . -name "*.html" | xargs trash
+find . -name "design" | xargs trash
+find . -name "ios" | xargs trash
+find . -name "drawable-*" | xargs trash
+find . -name "*_web" | xargs trash
+find . -name "README.md" | xargs trash
+find . -name "sprites" | xargs trash
+trash iconfont
+mv action/svg/production/* action
+mv alert/svg/production/* alert
+mv av/svg/production/* av
+mv communication/svg/production/* communication
+mv content/svg/production/* content
+mv device/svg/production/* device
+mv editor/svg/production/* editor
+mv file/svg/production/* file
+mv hardware/svg/production/* hardware
+mv image/svg/production/* image
+mv maps/svg/production/* maps
+mv navigation/svg/production/* navigation
+mv notification/svg/production/* notification
+mv places/svg/production/* places
+mv social/svg/production/* social
+mv toggle/svg/production/* toggle
+find . -name svg | xargs trash
+tree
