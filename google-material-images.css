@@ -1,0 +1,5630 @@
+// Auto generate css for material design from google (use only svg)
+
+.gmi-background {
+	background-image: url("background.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-desktop-mac {
+	background-image: url("hardware/desktop_mac.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-tablet-android {
+	background-image: url("hardware/tablet_android.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-laptop-chromebook {
+	background-image: url("hardware/laptop_chromebook.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-cast {
+	background-image: url("hardware/cast.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-headset {
+	background-image: url("hardware/headset.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard {
+	background-image: url("hardware/keyboard.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-videogame-asset {
+	background-image: url("hardware/videogame_asset.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-tv {
+	background-image: url("hardware/tv.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-sim-card {
+	background-image: url("hardware/sim_card.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-hide {
+	background-image: url("hardware/keyboard_hide.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-voice {
+	background-image: url("hardware/keyboard_voice.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-security {
+	background-image: url("hardware/security.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-dock {
+	background-image: url("hardware/dock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-power-input {
+	background-image: url("hardware/power_input.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-toys {
+	background-image: url("hardware/toys.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-speaker-group {
+	background-image: url("hardware/speaker_group.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-speaker {
+	background-image: url("hardware/speaker.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-computer {
+	background-image: url("hardware/computer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-backspace {
+	background-image: url("hardware/keyboard_backspace.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-memory {
+	background-image: url("hardware/memory.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-headset-mic {
+	background-image: url("hardware/headset_mic.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-arrow-left {
+	background-image: url("hardware/keyboard_arrow_left.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-phonelink {
+	background-image: url("hardware/phonelink.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-laptop-mac {
+	background-image: url("hardware/laptop_mac.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-desktop-windows {
+	background-image: url("hardware/desktop_windows.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-smartphone {
+	background-image: url("hardware/smartphone.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-tablet-mac {
+	background-image: url("hardware/tablet_mac.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-router {
+	background-image: url("hardware/router.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-return {
+	background-image: url("hardware/keyboard_return.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-phone-iphone {
+	background-image: url("hardware/phone_iphone.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-watch {
+	background-image: url("hardware/watch.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-capslock {
+	background-image: url("hardware/keyboard_capslock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-laptop {
+	background-image: url("hardware/laptop.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-devices-other {
+	background-image: url("hardware/devices_other.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-gamepad {
+	background-image: url("hardware/gamepad.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-tab {
+	background-image: url("hardware/keyboard_tab.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-mouse {
+	background-image: url("hardware/mouse.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-arrow-down {
+	background-image: url("hardware/keyboard_arrow_down.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-developer-board {
+	background-image: url("hardware/developer_board.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-arrow-up {
+	background-image: url("hardware/keyboard_arrow_up.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-phone-android {
+	background-image: url("hardware/phone_android.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-cast-connected {
+	background-image: url("hardware/cast_connected.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-tablet {
+	background-image: url("hardware/tablet.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-scanner {
+	background-image: url("hardware/scanner.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-keyboard-arrow-right {
+	background-image: url("hardware/keyboard_arrow_right.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-laptop-windows {
+	background-image: url("hardware/laptop_windows.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-hardware-phonelink-off {
+	background-image: url("hardware/phonelink_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-child-friendly {
+	background-image: url("places/child_friendly.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-hot-tub {
+	background-image: url("places/hot_tub.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-beach-access {
+	background-image: url("places/beach_access.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-casino {
+	background-image: url("places/casino.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-smoke-free {
+	background-image: url("places/smoke_free.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-room-service {
+	background-image: url("places/room_service.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-all-inclusive {
+	background-image: url("places/all_inclusive.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-airport-shuttle {
+	background-image: url("places/airport_shuttle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-pool {
+	background-image: url("places/pool.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-ac-unit {
+	background-image: url("places/ac_unit.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-child-care {
+	background-image: url("places/child_care.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-smoking-rooms {
+	background-image: url("places/smoking_rooms.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-business-center {
+	background-image: url("places/business_center.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-rv-hookup {
+	background-image: url("places/rv_hookup.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-spa {
+	background-image: url("places/spa.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-free-breakfast {
+	background-image: url("places/free_breakfast.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-fitness-center {
+	background-image: url("places/fitness_center.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-kitchen {
+	background-image: url("places/kitchen.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-places-golf-course {
+	background-image: url("places/golf_course.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-outer {
+	background-image: url("editor/border_outer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-title {
+	background-image: url("editor/title.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-clear {
+	background-image: url("editor/border_clear.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-drag-handle {
+	background-image: url("editor/drag_handle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-line-spacing {
+	background-image: url("editor/format_line_spacing.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-size {
+	background-image: url("editor/format_size.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-indent-decrease {
+	background-image: url("editor/format_indent_decrease.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-insert-drive-file {
+	background-image: url("editor/insert_drive_file.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-wrap-text {
+	background-image: url("editor/wrap_text.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-mode-comment {
+	background-image: url("editor/mode_comment.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-align-center {
+	background-image: url("editor/format_align_center.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-style {
+	background-image: url("editor/border_style.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-attach-money {
+	background-image: url("editor/attach_money.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-textdirection-l-to-r {
+	background-image: url("editor/format_textdirection_l_to_r.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-paint {
+	background-image: url("editor/format_paint.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-bubble-chart {
+	background-image: url("editor/bubble_chart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-vertical-align-center {
+	background-image: url("editor/vertical_align_center.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-strikethrough-s {
+	background-image: url("editor/strikethrough_s.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-color-fill {
+	background-image: url("editor/format_color_fill.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-clear {
+	background-image: url("editor/format_clear.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-insert-link {
+	background-image: url("editor/insert_link.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-color-reset {
+	background-image: url("editor/format_color_reset.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-color-text {
+	background-image: url("editor/format_color_text.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-merge-type {
+	background-image: url("editor/merge_type.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-right {
+	background-image: url("editor/border_right.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-insert-photo {
+	background-image: url("editor/insert_photo.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-horizontal {
+	background-image: url("editor/border_horizontal.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-italic {
+	background-image: url("editor/format_italic.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-all {
+	background-image: url("editor/border_all.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-multiline-chart {
+	background-image: url("editor/multiline_chart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-short-text {
+	background-image: url("editor/short_text.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-align-left {
+	background-image: url("editor/format_align_left.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-functions {
+	background-image: url("editor/functions.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-pie-chart {
+	background-image: url("editor/pie_chart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-linear-scale {
+	background-image: url("editor/linear_scale.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-publish {
+	background-image: url("editor/publish.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-vertical {
+	background-image: url("editor/border_vertical.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-mode-edit {
+	background-image: url("editor/mode_edit.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-insert-comment {
+	background-image: url("editor/insert_comment.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-pie-chart-outlined {
+	background-image: url("editor/pie_chart_outlined.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-underlined {
+	background-image: url("editor/format_underlined.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-bottom {
+	background-image: url("editor/border_bottom.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-insert-invitation {
+	background-image: url("editor/insert_invitation.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-insert-chart {
+	background-image: url("editor/insert_chart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-color {
+	background-image: url("editor/border_color.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-attach-file {
+	background-image: url("editor/attach_file.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-monetization-on {
+	background-image: url("editor/monetization_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-list-numbered {
+	background-image: url("editor/format_list_numbered.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-vertical-align-top {
+	background-image: url("editor/vertical_align_top.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-insert-emoticon {
+	background-image: url("editor/insert_emoticon.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-quote {
+	background-image: url("editor/format_quote.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-strikethrough {
+	background-image: url("editor/format_strikethrough.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-align-right {
+	background-image: url("editor/format_align_right.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-highlight {
+	background-image: url("editor/highlight.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-bold {
+	background-image: url("editor/format_bold.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-show-chart {
+	background-image: url("editor/show_chart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-inner {
+	background-image: url("editor/border_inner.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-shapes {
+	background-image: url("editor/format_shapes.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-left {
+	background-image: url("editor/border_left.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-textdirection-r-to-l {
+	background-image: url("editor/format_textdirection_r_to_l.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-vertical-align-bottom {
+	background-image: url("editor/vertical_align_bottom.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-text-fields {
+	background-image: url("editor/text_fields.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-list-bulleted {
+	background-image: url("editor/format_list_bulleted.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-border-top {
+	background-image: url("editor/border_top.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-indent-increase {
+	background-image: url("editor/format_indent_increase.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-format-align-justify {
+	background-image: url("editor/format_align_justify.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-editor-space-bar {
+	background-image: url("editor/space_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-closed-caption {
+	background-image: url("av/closed_caption.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-slow-motion-video {
+	background-image: url("av/slow_motion_video.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-play-arrow {
+	background-image: url("av/play_arrow.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-video-call {
+	background-image: url("av/video_call.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-high-quality {
+	background-image: url("av/high_quality.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-forward-10 {
+	background-image: url("av/forward_10.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-playlist-play {
+	background-image: url("av/playlist_play.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-video-label {
+	background-image: url("av/video_label.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-forward-5 {
+	background-image: url("av/forward_5.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-snooze {
+	background-image: url("av/snooze.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-playlist-add {
+	background-image: url("av/playlist_add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-videocam {
+	background-image: url("av/videocam.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-playlist-add-check {
+	background-image: url("av/playlist_add_check.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-repeat-one {
+	background-image: url("av/repeat_one.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-movie {
+	background-image: url("av/movie.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-explicit {
+	background-image: url("av/explicit.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-fiber-smart-record {
+	background-image: url("av/fiber_smart_record.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-library-music {
+	background-image: url("av/library_music.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-loop {
+	background-image: url("av/loop.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-queue-play-next {
+	background-image: url("av/queue_play_next.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-mic-off {
+	background-image: url("av/mic_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-featured-video {
+	background-image: url("av/featured_video.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-web-asset {
+	background-image: url("av/web_asset.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-replay-10 {
+	background-image: url("av/replay_10.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-replay-5 {
+	background-image: url("av/replay_5.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-branding-watermark {
+	background-image: url("av/branding_watermark.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-pause-circle-filled {
+	background-image: url("av/pause_circle_filled.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-featured-play-list {
+	background-image: url("av/featured_play_list.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-av-timer {
+	background-image: url("av/av_timer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-add-to-queue {
+	background-image: url("av/add_to_queue.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-mic-none {
+	background-image: url("av/mic_none.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-shuffle {
+	background-image: url("av/shuffle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-hearing {
+	background-image: url("av/hearing.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-radio {
+	background-image: url("av/radio.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-subtitles {
+	background-image: url("av/subtitles.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-fiber-pin {
+	background-image: url("av/fiber_pin.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-library-books {
+	background-image: url("av/library_books.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-subscriptions {
+	background-image: url("av/subscriptions.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-library-add {
+	background-image: url("av/library_add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-album {
+	background-image: url("av/album.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-forward-30 {
+	background-image: url("av/forward_30.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-fiber-manual-record {
+	background-image: url("av/fiber_manual_record.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-play-circle-filled-white {
+	background-image: url("av/play_circle_filled_white.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-volume-down {
+	background-image: url("av/volume_down.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-stop {
+	background-image: url("av/stop.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-volume-up {
+	background-image: url("av/volume_up.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-pause {
+	background-image: url("av/pause.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-play-circle-outline {
+	background-image: url("av/play_circle_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-art-track {
+	background-image: url("av/art_track.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-equalizer {
+	background-image: url("av/equalizer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-fiber-dvr {
+	background-image: url("av/fiber_dvr.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-note {
+	background-image: url("av/note.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-play-circle-filled {
+	background-image: url("av/play_circle_filled.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-skip-next {
+	background-image: url("av/skip_next.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-fast-forward {
+	background-image: url("av/fast_forward.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-pause-circle-outline {
+	background-image: url("av/pause_circle_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-web {
+	background-image: url("av/web.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-games {
+	background-image: url("av/games.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-volume-off {
+	background-image: url("av/volume_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-new-releases {
+	background-image: url("av/new_releases.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-replay {
+	background-image: url("av/replay.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-recent-actors {
+	background-image: url("av/recent_actors.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-airplay {
+	background-image: url("av/airplay.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-not-interested {
+	background-image: url("av/not_interested.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-queue {
+	background-image: url("av/queue.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-queue-music {
+	background-image: url("av/queue_music.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-repeat {
+	background-image: url("av/repeat.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-fast-rewind {
+	background-image: url("av/fast_rewind.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-skip-previous {
+	background-image: url("av/skip_previous.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-mic {
+	background-image: url("av/mic.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-surround-sound {
+	background-image: url("av/surround_sound.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-remove-from-queue {
+	background-image: url("av/remove_from_queue.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-videocam-off {
+	background-image: url("av/videocam_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-fiber-new {
+	background-image: url("av/fiber_new.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-video-library {
+	background-image: url("av/video_library.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-music-video {
+	background-image: url("av/music_video.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-volume-mute {
+	background-image: url("av/volume_mute.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-call-to-action {
+	background-image: url("av/call_to_action.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-av-replay-30 {
+	background-image: url("av/replay_30.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-burst-mode {
+	background-image: url("image/burst_mode.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-movie-creation {
+	background-image: url("image/movie_creation.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-transform {
+	background-image: url("image/transform.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-wb-iridescent {
+	background-image: url("image/wb_iridescent.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-blur-on {
+	background-image: url("image/blur_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-2 {
+	background-image: url("image/filter_2.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-1 {
+	background-image: url("image/filter_1.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-collections {
+	background-image: url("image/collections.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-free {
+	background-image: url("image/crop_free.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-add-a-photo {
+	background-image: url("image/add_a_photo.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-flash-auto {
+	background-image: url("image/flash_auto.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-16-9 {
+	background-image: url("image/crop_16_9.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-tune {
+	background-image: url("image/tune.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-frames {
+	background-image: url("image/filter_frames.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-picture-as-pdf {
+	background-image: url("image/picture_as_pdf.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-photo-camera {
+	background-image: url("image/photo_camera.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-image {
+	background-image: url("image/image.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-leak-remove {
+	background-image: url("image/leak_remove.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-looks-4 {
+	background-image: url("image/looks_4.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-slideshow {
+	background-image: url("image/slideshow.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-view-comfy {
+	background-image: url("image/view_comfy.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-image-aspect-ratio {
+	background-image: url("image/image_aspect_ratio.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-nature {
+	background-image: url("image/nature.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-8 {
+	background-image: url("image/filter_8.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-timer-10 {
+	background-image: url("image/timer_10.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop {
+	background-image: url("image/crop.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-gradient {
+	background-image: url("image/gradient.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-looks-3 {
+	background-image: url("image/looks_3.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-photo-library {
+	background-image: url("image/photo_library.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-assistant {
+	background-image: url("image/assistant.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-style {
+	background-image: url("image/style.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-monochrome-photos {
+	background-image: url("image/monochrome_photos.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-navigate-before {
+	background-image: url("image/navigate_before.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-wb-auto {
+	background-image: url("image/wb_auto.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-blur-linear {
+	background-image: url("image/blur_linear.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-9 {
+	background-image: url("image/filter_9.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-landscape {
+	background-image: url("image/landscape.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-5-4 {
+	background-image: url("image/crop_5_4.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-music-note {
+	background-image: url("image/music_note.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-looks-two {
+	background-image: url("image/looks_two.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-leak-add {
+	background-image: url("image/leak_add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brightness-6 {
+	background-image: url("image/brightness_6.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-movie-filter {
+	background-image: url("image/movie_filter.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-4 {
+	background-image: url("image/filter_4.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-flip {
+	background-image: url("image/flip.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-tilt-shift {
+	background-image: url("image/filter_tilt_shift.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brightness-4 {
+	background-image: url("image/brightness_4.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-b-and-w {
+	background-image: url("image/filter_b_and_w.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-camera-roll {
+	background-image: url("image/camera_roll.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-camera-rear {
+	background-image: url("image/camera_rear.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-camera {
+	background-image: url("image/camera.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-rotate-right {
+	background-image: url("image/rotate_right.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-tonality {
+	background-image: url("image/tonality.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-center-focus-weak {
+	background-image: url("image/center_focus_weak.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-photo-filter {
+	background-image: url("image/photo_filter.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-hdr-off {
+	background-image: url("image/hdr_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-9-plus {
+	background-image: url("image/filter_9_plus.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-add-to-photos {
+	background-image: url("image/add_to_photos.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-grid-off {
+	background-image: url("image/grid_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-view-compact {
+	background-image: url("image/view_compact.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-flare {
+	background-image: url("image/flare.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-loupe {
+	background-image: url("image/loupe.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-drama {
+	background-image: url("image/filter_drama.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-looks-5 {
+	background-image: url("image/looks_5.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-hdr {
+	background-image: url("image/filter_hdr.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-flash-on {
+	background-image: url("image/flash_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-original {
+	background-image: url("image/crop_original.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-center-focus-strong {
+	background-image: url("image/center_focus_strong.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-edit {
+	background-image: url("image/edit.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-color-lens {
+	background-image: url("image/color_lens.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-timer-3 {
+	background-image: url("image/timer_3.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-center-focus {
+	background-image: url("image/filter_center_focus.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-din {
+	background-image: url("image/crop_din.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-3 {
+	background-image: url("image/filter_3.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-flash-off {
+	background-image: url("image/flash_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-blur-circular {
+	background-image: url("image/blur_circular.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-looks-6 {
+	background-image: url("image/looks_6.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-camera-alt {
+	background-image: url("image/camera_alt.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-vintage {
+	background-image: url("image/filter_vintage.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-rotate-90-degrees-ccw {
+	background-image: url("image/rotate_90_degrees_ccw.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brush {
+	background-image: url("image/brush.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-portrait {
+	background-image: url("image/portrait.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brightness-1 {
+	background-image: url("image/brightness_1.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-nature-people {
+	background-image: url("image/nature_people.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-assistant-photo {
+	background-image: url("image/assistant_photo.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-wb-cloudy {
+	background-image: url("image/wb_cloudy.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-switch-video {
+	background-image: url("image/switch_video.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-none {
+	background-image: url("image/filter_none.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-panorama-horizontal {
+	background-image: url("image/panorama_horizontal.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-portrait {
+	background-image: url("image/crop_portrait.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-photo {
+	background-image: url("image/photo.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-palette {
+	background-image: url("image/palette.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-broken-image {
+	background-image: url("image/broken_image.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-timer-off {
+	background-image: url("image/timer_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-exposure-zero {
+	background-image: url("image/exposure_zero.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-audiotrack {
+	background-image: url("image/audiotrack.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-texture {
+	background-image: url("image/texture.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-healing {
+	background-image: url("image/healing.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-timer {
+	background-image: url("image/timer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-7 {
+	background-image: url("image/filter_7.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-linked-camera {
+	background-image: url("image/linked_camera.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-6 {
+	background-image: url("image/filter_6.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-hdr-on {
+	background-image: url("image/hdr_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brightness-7 {
+	background-image: url("image/brightness_7.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-remove-red-eye {
+	background-image: url("image/remove_red_eye.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brightness-2 {
+	background-image: url("image/brightness_2.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-exposure {
+	background-image: url("image/exposure.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-camera-front {
+	background-image: url("image/camera_front.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-navigate-next {
+	background-image: url("image/navigate_next.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-straighten {
+	background-image: url("image/straighten.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-panorama-vertical {
+	background-image: url("image/panorama_vertical.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-tag-faces {
+	background-image: url("image/tag_faces.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-panorama {
+	background-image: url("image/panorama.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-adjust {
+	background-image: url("image/adjust.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter-5 {
+	background-image: url("image/filter_5.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-colorize {
+	background-image: url("image/colorize.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-exposure-plus-1 {
+	background-image: url("image/exposure_plus_1.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-panorama-fish-eye {
+	background-image: url("image/panorama_fish_eye.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-dehaze {
+	background-image: url("image/dehaze.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-blur-off {
+	background-image: url("image/blur_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-rotate-left {
+	background-image: url("image/rotate_left.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-control-point-duplicate {
+	background-image: url("image/control_point_duplicate.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-timelapse {
+	background-image: url("image/timelapse.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-lens {
+	background-image: url("image/lens.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-hdr-weak {
+	background-image: url("image/hdr_weak.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-photo-album {
+	background-image: url("image/photo_album.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-filter {
+	background-image: url("image/filter.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-compare {
+	background-image: url("image/compare.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-landscape {
+	background-image: url("image/crop_landscape.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-7-5 {
+	background-image: url("image/crop_7_5.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-exposure-plus-2 {
+	background-image: url("image/exposure_plus_2.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-iso {
+	background-image: url("image/iso.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brightness-3 {
+	background-image: url("image/brightness_3.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-switch-camera {
+	background-image: url("image/switch_camera.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-details {
+	background-image: url("image/details.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-panorama-wide-angle {
+	background-image: url("image/panorama_wide_angle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-rotate {
+	background-image: url("image/crop_rotate.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-looks-one {
+	background-image: url("image/looks_one.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-3-2 {
+	background-image: url("image/crop_3_2.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-brightness-5 {
+	background-image: url("image/brightness_5.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-wb-sunny {
+	background-image: url("image/wb_sunny.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-crop-square {
+	background-image: url("image/crop_square.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-looks {
+	background-image: url("image/looks.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-control-point {
+	background-image: url("image/control_point.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-exposure-neg-2 {
+	background-image: url("image/exposure_neg_2.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-exposure-neg-1 {
+	background-image: url("image/exposure_neg_1.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-wb-incandescent {
+	background-image: url("image/wb_incandescent.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-grain {
+	background-image: url("image/grain.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-grid-on {
+	background-image: url("image/grid_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-image-hdr-strong {
+	background-image: url("image/hdr_strong.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-alert-error {
+	background-image: url("alert/error.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-alert-warning {
+	background-image: url("alert/warning.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-alert-error-outline {
+	background-image: url("alert/error_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-alert-add-alert {
+	background-image: url("alert/add_alert.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-phone-in-talk {
+	background-image: url("notification/phone_in_talk.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-network-check {
+	background-image: url("notification/network_check.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-do-not-disturb-on {
+	background-image: url("notification/do_not_disturb_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-phone-locked {
+	background-image: url("notification/phone_locked.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-folder-special {
+	background-image: url("notification/folder_special.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-no-encryption {
+	background-image: url("notification/no_encryption.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-recline-normal {
+	background-image: url("notification/airline_seat_recline_normal.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-do-not-disturb-alt {
+	background-image: url("notification/do_not_disturb_alt.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-sync {
+	background-image: url("notification/sync.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-wc {
+	background-image: url("notification/wc.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-personal-video {
+	background-image: url("notification/personal_video.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-flat-angled {
+	background-image: url("notification/airline_seat_flat_angled.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-flat {
+	background-image: url("notification/airline_seat_flat.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-wifi {
+	background-image: url("notification/wifi.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-priority-high {
+	background-image: url("notification/priority_high.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-sms-failed {
+	background-image: url("notification/sms_failed.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-disc-full {
+	background-image: url("notification/disc_full.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-do-not-disturb {
+	background-image: url("notification/do_not_disturb.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-sync-disabled {
+	background-image: url("notification/sync_disabled.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-sms {
+	background-image: url("notification/sms.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-mms {
+	background-image: url("notification/mms.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-event-note {
+	background-image: url("notification/event_note.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-event-available {
+	background-image: url("notification/event_available.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-time-to-leave {
+	background-image: url("notification/time_to_leave.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-individual-suite {
+	background-image: url("notification/airline_seat_individual_suite.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-voice-chat {
+	background-image: url("notification/voice_chat.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-sim-card-alert {
+	background-image: url("notification/sim_card_alert.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-power {
+	background-image: url("notification/power.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-legroom-extra {
+	background-image: url("notification/airline_seat_legroom_extra.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-vpn-lock {
+	background-image: url("notification/vpn_lock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-sync-problem {
+	background-image: url("notification/sync_problem.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-live-tv {
+	background-image: url("notification/live_tv.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-drive-eta {
+	background-image: url("notification/drive_eta.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-vibration {
+	background-image: url("notification/vibration.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-rv-hookup {
+	background-image: url("notification/rv_hookup.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-tap-and-play {
+	background-image: url("notification/tap_and_play.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-do-not-disturb-off {
+	background-image: url("notification/do_not_disturb_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-network-locked {
+	background-image: url("notification/network_locked.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-recline-extra {
+	background-image: url("notification/airline_seat_recline_extra.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-legroom-normal {
+	background-image: url("notification/airline_seat_legroom_normal.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-phone-bluetooth-speaker {
+	background-image: url("notification/phone_bluetooth_speaker.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-ondemand-video {
+	background-image: url("notification/ondemand_video.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-sd-card {
+	background-image: url("notification/sd_card.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-confirmation-number {
+	background-image: url("notification/confirmation_number.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-bluetooth-audio {
+	background-image: url("notification/bluetooth_audio.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-phone-forwarded {
+	background-image: url("notification/phone_forwarded.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-event-busy {
+	background-image: url("notification/event_busy.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-more {
+	background-image: url("notification/more.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-phone-missed {
+	background-image: url("notification/phone_missed.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-phone-paused {
+	background-image: url("notification/phone_paused.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-adb {
+	background-image: url("notification/adb.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-enhanced-encryption {
+	background-image: url("notification/enhanced_encryption.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-priority-high-12px {
+	background-image: url("notification/priority_high_12px.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-airline-seat-legroom-reduced {
+	background-image: url("notification/airline_seat_legroom_reduced.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-notification-system-update {
+	background-image: url("notification/system_update.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-full {
+	background-image: url("device/battery_full.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-settings-system-daydream {
+	background-image: url("device/settings_system_daydream.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-gps-off {
+	background-image: url("device/gps_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-off {
+	background-image: url("device/signal_cellular_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-2-bar {
+	background-image: url("device/signal_cellular_2_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-brightness-high {
+	background-image: url("device/brightness_high.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-0-bar {
+	background-image: url("device/signal_wifi_0_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-20 {
+	background-image: url("device/battery_20.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-1-bar {
+	background-image: url("device/signal_cellular_1_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-devices {
+	background-image: url("device/devices.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-connected-no-internet-3-bar {
+	background-image: url("device/signal_cellular_connected_no_internet_3_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-60 {
+	background-image: url("device/battery_60.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-std {
+	background-image: url("device/battery_std.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-wifi-tethering {
+	background-image: url("device/wifi_tethering.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-charging-full {
+	background-image: url("device/battery_charging_full.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-unknown {
+	background-image: url("device/battery_unknown.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-connected-no-internet-0-bar {
+	background-image: url("device/signal_cellular_connected_no_internet_0_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-screen-lock-portrait {
+	background-image: url("device/screen_lock_portrait.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-access-time {
+	background-image: url("device/access_time.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-gps-fixed {
+	background-image: url("device/gps_fixed.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-4-bar-lock {
+	background-image: url("device/signal_wifi_4_bar_lock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-0-bar {
+	background-image: url("device/signal_cellular_0_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-charging-90 {
+	background-image: url("device/battery_charging_90.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-screen-lock-rotation {
+	background-image: url("device/screen_lock_rotation.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-3-bar {
+	background-image: url("device/signal_cellular_3_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-bluetooth-connected {
+	background-image: url("device/bluetooth_connected.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-developer-mode {
+	background-image: url("device/developer_mode.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-nfc {
+	background-image: url("device/nfc.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-alert {
+	background-image: url("device/battery_alert.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-off {
+	background-image: url("device/signal_wifi_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-access-alarm {
+	background-image: url("device/access_alarm.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-dvr {
+	background-image: url("device/dvr.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-brightness-auto {
+	background-image: url("device/brightness_auto.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-bluetooth {
+	background-image: url("device/bluetooth.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-storage {
+	background-image: url("device/storage.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-graphic-eq {
+	background-image: url("device/graphic_eq.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-connected-no-internet-2-bar {
+	background-image: url("device/signal_cellular_connected_no_internet_2_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-charging-60 {
+	background-image: url("device/battery_charging_60.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-charging-30 {
+	background-image: url("device/battery_charging_30.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-4-bar {
+	background-image: url("device/signal_cellular_4_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-airplanemode-inactive {
+	background-image: url("device/airplanemode_inactive.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-90 {
+	background-image: url("device/battery_90.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-1-bar-lock {
+	background-image: url("device/signal_wifi_1_bar_lock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-wallpaper {
+	background-image: url("device/wallpaper.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-charging-20 {
+	background-image: url("device/battery_charging_20.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-location-disabled {
+	background-image: url("device/location_disabled.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-2-bar-lock {
+	background-image: url("device/signal_wifi_2_bar_lock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-sd-storage {
+	background-image: url("device/sd_storage.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-wifi-lock {
+	background-image: url("device/wifi_lock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-30 {
+	background-image: url("device/battery_30.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-location-searching {
+	background-image: url("device/location_searching.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-null {
+	background-image: url("device/signal_cellular_null.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-usb {
+	background-image: url("device/usb.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-1-bar {
+	background-image: url("device/signal_wifi_1_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-gps-not-fixed {
+	background-image: url("device/gps_not_fixed.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-connected-no-internet-1-bar {
+	background-image: url("device/signal_cellular_connected_no_internet_1_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-50 {
+	background-image: url("device/battery_50.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-data-usage {
+	background-image: url("device/data_usage.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-charging-50 {
+	background-image: url("device/battery_charging_50.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-3-bar-lock {
+	background-image: url("device/signal_wifi_3_bar_lock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-network-cell {
+	background-image: url("device/network_cell.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-screen-rotation {
+	background-image: url("device/screen_rotation.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-80 {
+	background-image: url("device/battery_80.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-access-alarms {
+	background-image: url("device/access_alarms.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-3-bar {
+	background-image: url("device/signal_wifi_3_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-battery-charging-80 {
+	background-image: url("device/battery_charging_80.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-add-alarm {
+	background-image: url("device/add_alarm.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-2-bar {
+	background-image: url("device/signal_wifi_2_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-screen-lock-landscape {
+	background-image: url("device/screen_lock_landscape.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-connected-no-internet-4-bar {
+	background-image: url("device/signal_cellular_connected_no_internet_4_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-brightness-medium {
+	background-image: url("device/brightness_medium.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-wifi-4-bar {
+	background-image: url("device/signal_wifi_4_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-network-wifi {
+	background-image: url("device/network_wifi.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-bluetooth-searching {
+	background-image: url("device/bluetooth_searching.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-widgets {
+	background-image: url("device/widgets.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-bluetooth-disabled {
+	background-image: url("device/bluetooth_disabled.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-airplanemode-active {
+	background-image: url("device/airplanemode_active.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-brightness-low {
+	background-image: url("device/brightness_low.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-device-signal-cellular-no-sim {
+	background-image: url("device/signal_cellular_no_sim.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-remove {
+	background-image: url("content/remove.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-text-format {
+	background-image: url("content/text_format.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-reply-all {
+	background-image: url("content/reply_all.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-content-cut {
+	background-image: url("content/content_cut.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-weekend {
+	background-image: url("content/weekend.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-remove-circle-outline {
+	background-image: url("content/remove_circle_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-report {
+	background-image: url("content/report.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-redo {
+	background-image: url("content/redo.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-backspace {
+	background-image: url("content/backspace.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-create {
+	background-image: url("content/create.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-content-copy {
+	background-image: url("content/content_copy.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-select-all {
+	background-image: url("content/select_all.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-sort {
+	background-image: url("content/sort.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-undo {
+	background-image: url("content/undo.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-move-to-inbox {
+	background-image: url("content/move_to_inbox.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-unarchive {
+	background-image: url("content/unarchive.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-markunread {
+	background-image: url("content/markunread.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-link {
+	background-image: url("content/link.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-add-box {
+	background-image: url("content/add_box.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-mail {
+	background-image: url("content/mail.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-low-priority {
+	background-image: url("content/low_priority.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-save {
+	background-image: url("content/save.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-clear {
+	background-image: url("content/clear.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-gesture {
+	background-image: url("content/gesture.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-drafts {
+	background-image: url("content/drafts.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-content-paste {
+	background-image: url("content/content_paste.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-send {
+	background-image: url("content/send.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-add {
+	background-image: url("content/add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-reply {
+	background-image: url("content/reply.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-inbox {
+	background-image: url("content/inbox.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-add-circle-outline {
+	background-image: url("content/add_circle_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-add-circle {
+	background-image: url("content/add_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-filter-list {
+	background-image: url("content/filter_list.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-archive {
+	background-image: url("content/archive.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-next-week {
+	background-image: url("content/next_week.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-remove-circle {
+	background-image: url("content/remove_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-flag {
+	background-image: url("content/flag.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-block {
+	background-image: url("content/block.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-delete-sweep {
+	background-image: url("content/delete_sweep.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-content-forward {
+	background-image: url("content/forward.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-arrow-drop-down-circle {
+	background-image: url("navigation/arrow_drop_down_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-last-page {
+	background-image: url("navigation/last_page.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-arrow-forward {
+	background-image: url("navigation/arrow_forward.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-cancel {
+	background-image: url("navigation/cancel.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-expand-less {
+	background-image: url("navigation/expand_less.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-refresh {
+	background-image: url("navigation/refresh.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-fullscreen {
+	background-image: url("navigation/fullscreen.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-subdirectory-arrow-right {
+	background-image: url("navigation/subdirectory_arrow_right.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-fullscreen-exit {
+	background-image: url("navigation/fullscreen_exit.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-arrow-back {
+	background-image: url("navigation/arrow_back.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-subdirectory-arrow-left {
+	background-image: url("navigation/subdirectory_arrow_left.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-arrow-downward {
+	background-image: url("navigation/arrow_downward.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-unfold-more {
+	background-image: url("navigation/unfold_more.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-chevron-left {
+	background-image: url("navigation/chevron_left.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-first-page {
+	background-image: url("navigation/first_page.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-menu {
+	background-image: url("navigation/menu.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-arrow-upward {
+	background-image: url("navigation/arrow_upward.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-apps {
+	background-image: url("navigation/apps.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-arrow-drop-down {
+	background-image: url("navigation/arrow_drop_down.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-check {
+	background-image: url("navigation/check.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-arrow-drop-up {
+	background-image: url("navigation/arrow_drop_up.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-expand-more {
+	background-image: url("navigation/expand_more.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-chevron-right {
+	background-image: url("navigation/chevron_right.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-more-vert {
+	background-image: url("navigation/more_vert.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-unfold-less {
+	background-image: url("navigation/unfold_less.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-close {
+	background-image: url("navigation/close.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-navigation-more-horiz {
+	background-image: url("navigation/more_horiz.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-cloud-download {
+	background-image: url("file/cloud_download.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-cloud-queue {
+	background-image: url("file/cloud_queue.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-cloud-upload {
+	background-image: url("file/cloud_upload.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-folder-shared {
+	background-image: url("file/folder_shared.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-file-upload {
+	background-image: url("file/file_upload.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-cloud-done {
+	background-image: url("file/cloud_done.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-cloud {
+	background-image: url("file/cloud.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-cloud-circle {
+	background-image: url("file/cloud_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-folder {
+	background-image: url("file/folder.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-cloud-off {
+	background-image: url("file/cloud_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-file-download {
+	background-image: url("file/file_download.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-folder-open {
+	background-image: url("file/folder_open.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-attachment {
+	background-image: url("file/attachment.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-file-create-new-folder {
+	background-image: url("file/create_new_folder.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-cafe {
+	background-image: url("maps/local_cafe.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-navigation {
+	background-image: url("maps/navigation.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-person-pin {
+	background-image: url("maps/person_pin.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-place {
+	background-image: url("maps/place.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-beenhere {
+	background-image: url("maps/beenhere.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-phone {
+	background-image: url("maps/local_phone.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-library {
+	background-image: url("maps/local_library.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-person-pin-circle {
+	background-image: url("maps/person_pin_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-store-mall-directory {
+	background-image: url("maps/store_mall_directory.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-ev-station {
+	background-image: url("maps/ev_station.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-layers-clear {
+	background-image: url("maps/layers_clear.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-subway {
+	background-image: url("maps/subway.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-parking {
+	background-image: url("maps/local_parking.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-hotel {
+	background-image: url("maps/local_hotel.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-boat {
+	background-image: url("maps/directions_boat.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-pizza {
+	background-image: url("maps/local_pizza.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-tram {
+	background-image: url("maps/tram.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-walk {
+	background-image: url("maps/directions_walk.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-car-wash {
+	background-image: url("maps/local_car_wash.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-dining {
+	background-image: url("maps/local_dining.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-layers {
+	background-image: url("maps/layers.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-subway {
+	background-image: url("maps/directions_subway.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-grocery-store {
+	background-image: url("maps/local_grocery_store.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-movies {
+	background-image: url("maps/local_movies.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-hotel {
+	background-image: url("maps/hotel.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-streetview {
+	background-image: url("maps/streetview.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-taxi {
+	background-image: url("maps/local_taxi.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-satellite {
+	background-image: url("maps/satellite.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-bike {
+	background-image: url("maps/directions_bike.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-atm {
+	background-image: url("maps/local_atm.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-near-me {
+	background-image: url("maps/near_me.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-florist {
+	background-image: url("maps/local_florist.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-rate-review {
+	background-image: url("maps/rate_review.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-bus {
+	background-image: url("maps/directions_bus.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-laundry-service {
+	background-image: url("maps/local_laundry_service.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-airport {
+	background-image: url("maps/local_airport.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-transfer-within-a-station {
+	background-image: url("maps/transfer_within_a_station.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-shipping {
+	background-image: url("maps/local_shipping.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-map {
+	background-image: url("maps/map.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-drink {
+	background-image: url("maps/local_drink.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-bar {
+	background-image: url("maps/local_bar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-gas-station {
+	background-image: url("maps/local_gas_station.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-pin-drop {
+	background-image: url("maps/pin_drop.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-convenience-store {
+	background-image: url("maps/local_convenience_store.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-my-location {
+	background-image: url("maps/my_location.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-post-office {
+	background-image: url("maps/local_post_office.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-traffic {
+	background-image: url("maps/traffic.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-restaurant {
+	background-image: url("maps/restaurant.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions {
+	background-image: url("maps/directions.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-edit-location {
+	background-image: url("maps/edit_location.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-train {
+	background-image: url("maps/train.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-play {
+	background-image: url("maps/local_play.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-restaurant-menu {
+	background-image: url("maps/restaurant_menu.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-activity {
+	background-image: url("maps/local_activity.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-run {
+	background-image: url("maps/directions_run.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-offer {
+	background-image: url("maps/local_offer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-pharmacy {
+	background-image: url("maps/local_pharmacy.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-hospital {
+	background-image: url("maps/local_hospital.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-see {
+	background-image: url("maps/local_see.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-car {
+	background-image: url("maps/directions_car.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-transit {
+	background-image: url("maps/directions_transit.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-terrain {
+	background-image: url("maps/terrain.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-directions-railway {
+	background-image: url("maps/directions_railway.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-add-location {
+	background-image: url("maps/add_location.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-zoom-out-map {
+	background-image: url("maps/zoom_out_map.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-mall {
+	background-image: url("maps/local_mall.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-local-printshop {
+	background-image: url("maps/local_printshop.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-maps-flight {
+	background-image: url("maps/flight.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-toggle-radio-button-unchecked {
+	background-image: url("toggle/radio_button_unchecked.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-toggle-star-half {
+	background-image: url("toggle/star_half.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-toggle-radio-button-checked {
+	background-image: url("toggle/radio_button_checked.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-toggle-check-box-outline-blank {
+	background-image: url("toggle/check_box_outline_blank.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-toggle-check-box {
+	background-image: url("toggle/check_box.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call-missed {
+	background-image: url("communication/call_missed.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-dialer-sip {
+	background-image: url("communication/dialer_sip.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call-split {
+	background-image: url("communication/call_split.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-clear-all {
+	background-image: url("communication/clear_all.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-import-export {
+	background-image: url("communication/import_export.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-contact-phone {
+	background-image: url("communication/contact_phone.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-email {
+	background-image: url("communication/email.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call-received {
+	background-image: url("communication/call_received.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-contacts {
+	background-image: url("communication/contacts.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call-end {
+	background-image: url("communication/call_end.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-rss-feed {
+	background-image: url("communication/rss_feed.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-voicemail {
+	background-image: url("communication/voicemail.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-chat-bubble-outline {
+	background-image: url("communication/chat_bubble_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-invert-colors-off {
+	background-image: url("communication/invert_colors_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-contact-mail {
+	background-image: url("communication/contact_mail.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-stay-current-landscape {
+	background-image: url("communication/stay_current_landscape.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-stay-primary-landscape {
+	background-image: url("communication/stay_primary_landscape.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-vpn-key {
+	background-image: url("communication/vpn_key.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-swap-calls {
+	background-image: url("communication/swap_calls.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-stop-screen-share {
+	background-image: url("communication/stop_screen_share.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-phone {
+	background-image: url("communication/phone.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-portable-wifi-off {
+	background-image: url("communication/portable_wifi_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-import-contacts {
+	background-image: url("communication/import_contacts.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-live-help {
+	background-image: url("communication/live_help.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-chat {
+	background-image: url("communication/chat.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call {
+	background-image: url("communication/call.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-business {
+	background-image: url("communication/business.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-location-on {
+	background-image: url("communication/location_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-speaker-phone {
+	background-image: url("communication/speaker_phone.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-message {
+	background-image: url("communication/message.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-stay-current-portrait {
+	background-image: url("communication/stay_current_portrait.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-ring-volume {
+	background-image: url("communication/ring_volume.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call-missed-outgoing {
+	background-image: url("communication/call_missed_outgoing.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-no-sim {
+	background-image: url("communication/no_sim.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call-merge {
+	background-image: url("communication/call_merge.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-comment {
+	background-image: url("communication/comment.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-forum {
+	background-image: url("communication/forum.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-mail-outline {
+	background-image: url("communication/mail_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-stay-primary-portrait {
+	background-image: url("communication/stay_primary_portrait.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-textsms {
+	background-image: url("communication/textsms.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-chat-bubble {
+	background-image: url("communication/chat_bubble.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-dialpad {
+	background-image: url("communication/dialpad.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-call-made {
+	background-image: url("communication/call_made.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-present-to-all {
+	background-image: url("communication/present_to_all.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-location-off {
+	background-image: url("communication/location_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-communication-screen-share {
+	background-image: url("communication/screen_share.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-trending-down {
+	background-image: url("action/trending_down.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-media {
+	background-image: url("action/perm_media.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-input-antenna {
+	background-image: url("action/settings_input_antenna.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-delete {
+	background-image: url("action/delete.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-bookmark {
+	background-image: url("action/bookmark.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-accessibility {
+	background-image: url("action/accessibility.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-rowing {
+	background-image: url("action/rowing.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-add-shopping-cart {
+	background-image: url("action/add_shopping_cart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-change-history {
+	background-image: url("action/change_history.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-find-in-page {
+	background-image: url("action/find_in_page.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-android {
+	background-image: url("action/android.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-touch-app {
+	background-image: url("action/touch_app.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-pan-tool {
+	background-image: url("action/pan_tool.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-tab {
+	background-image: url("action/tab.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-backup {
+	background-image: url("action/backup.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-picture-in-picture-alt {
+	background-image: url("action/picture_in_picture_alt.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-speaker-notes-off {
+	background-image: url("action/speaker_notes_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-assessment {
+	background-image: url("action/assessment.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-grade {
+	background-image: url("action/grade.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-today {
+	background-image: url("action/today.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-bookmark-border {
+	background-image: url("action/bookmark_border.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-hourglass-empty {
+	background-image: url("action/hourglass_empty.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-verified-user {
+	background-image: url("action/verified_user.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-donut-small {
+	background-image: url("action/donut_small.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-info-outline {
+	background-image: url("action/info_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-line-style {
+	background-image: url("action/line_style.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-lock-outline {
+	background-image: url("action/lock_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-open-with {
+	background-image: url("action/open_with.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-account-balance-wallet {
+	background-image: url("action/account_balance_wallet.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-stream {
+	background-image: url("action/view_stream.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-info {
+	background-image: url("action/info.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-track-changes {
+	background-image: url("action/track_changes.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-store {
+	background-image: url("action/store.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-delete-forever {
+	background-image: url("action/delete_forever.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-account-balance {
+	background-image: url("action/account_balance.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-speaker-notes {
+	background-image: url("action/speaker_notes.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-event {
+	background-image: url("action/event.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-gavel {
+	background-image: url("action/gavel.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-fingerprint {
+	background-image: url("action/fingerprint.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-shop-two {
+	background-image: url("action/shop_two.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-spellcheck {
+	background-image: url("action/spellcheck.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-3d-rotation {
+	background-image: url("action/3d_rotation.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-shopping-cart {
+	background-image: url("action/shopping_cart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-picture-in-picture {
+	background-image: url("action/picture_in_picture.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-find-replace {
+	background-image: url("action/find_replace.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-input-hdmi {
+	background-image: url("action/settings_input_hdmi.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-ethernet {
+	background-image: url("action/settings_ethernet.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-credit-card {
+	background-image: url("action/credit_card.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-alarm-on {
+	background-image: url("action/alarm_on.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-room {
+	background-image: url("action/room.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-receipt {
+	background-image: url("action/receipt.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-visibility {
+	background-image: url("action/visibility.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-work {
+	background-image: url("action/work.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-input {
+	background-image: url("action/input.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-pageview {
+	background-image: url("action/pageview.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-flight-takeoff {
+	background-image: url("action/flight_takeoff.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-turned-in-not {
+	background-image: url("action/turned_in_not.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-theaters {
+	background-image: url("action/theaters.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-home {
+	background-image: url("action/home.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-lightbulb-outline {
+	background-image: url("action/lightbulb_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-update {
+	background-image: url("action/update.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-camera-mic {
+	background-image: url("action/perm_camera_mic.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-g-translate {
+	background-image: url("action/g_translate.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-loyalty {
+	background-image: url("action/loyalty.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-array {
+	background-image: url("action/view_array.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-agenda {
+	background-image: url("action/view_agenda.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-important-devices {
+	background-image: url("action/important_devices.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-quilt {
+	background-image: url("action/view_quilt.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-backup-restore {
+	background-image: url("action/settings_backup_restore.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-phone {
+	background-image: url("action/settings_phone.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-opacity {
+	background-image: url("action/opacity.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-swap-vertical-circle {
+	background-image: url("action/swap_vertical_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-list {
+	background-image: url("action/view_list.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-launch {
+	background-image: url("action/launch.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings {
+	background-image: url("action/settings.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-line-weight {
+	background-image: url("action/line_weight.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-redeem {
+	background-image: url("action/redeem.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-markunread-mailbox {
+	background-image: url("action/markunread_mailbox.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-stars {
+	background-image: url("action/stars.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-done-all {
+	background-image: url("action/done_all.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-label-outline {
+	background-image: url("action/label_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-system-update-alt {
+	background-image: url("action/system_update_alt.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-device-information {
+	background-image: url("action/perm_device_information.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-applications {
+	background-image: url("action/settings_applications.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-copyright {
+	background-image: url("action/copyright.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-week {
+	background-image: url("action/view_week.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-polymer {
+	background-image: url("action/polymer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-schedule {
+	background-image: url("action/schedule.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-voice {
+	background-image: url("action/settings_voice.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-question-answer {
+	background-image: url("action/question_answer.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-subject {
+	background-image: url("action/subject.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-supervisor-account {
+	background-image: url("action/supervisor_account.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-thumbs-up-down {
+	background-image: url("action/thumbs_up_down.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-play-for-work {
+	background-image: url("action/play_for_work.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-assignment {
+	background-image: url("action/assignment.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-announcement {
+	background-image: url("action/announcement.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-identity {
+	background-image: url("action/perm_identity.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-flight-land {
+	background-image: url("action/flight_land.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-day {
+	background-image: url("action/view_day.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-euro-symbol {
+	background-image: url("action/euro_symbol.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-pregnant-woman {
+	background-image: url("action/pregnant_woman.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-assignment-late {
+	background-image: url("action/assignment_late.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-swap-vert {
+	background-image: url("action/swap_vert.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-headline {
+	background-image: url("action/view_headline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-all-out {
+	background-image: url("action/all_out.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-get-app {
+	background-image: url("action/get_app.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-autorenew {
+	background-image: url("action/autorenew.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-trending-flat {
+	background-image: url("action/trending_flat.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-watch-later {
+	background-image: url("action/watch_later.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-note-add {
+	background-image: url("action/note_add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-swap-horiz {
+	background-image: url("action/swap_horiz.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-alarm-off {
+	background-image: url("action/alarm_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-description {
+	background-image: url("action/description.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-bluetooth {
+	background-image: url("action/settings_bluetooth.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-restore-page {
+	background-image: url("action/restore_page.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-list {
+	background-image: url("action/list.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-print {
+	background-image: url("action/print.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-event-seat {
+	background-image: url("action/event_seat.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-translate {
+	background-image: url("action/translate.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-module {
+	background-image: url("action/view_module.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-pets {
+	background-image: url("action/pets.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-accessible {
+	background-image: url("action/accessible.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-assignment-ind {
+	background-image: url("action/assignment_ind.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-label {
+	background-image: url("action/label.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-motorcycle {
+	background-image: url("action/motorcycle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-flip-to-back {
+	background-image: url("action/flip_to_back.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-scan-wifi {
+	background-image: url("action/perm_scan_wifi.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-assignment-turned-in {
+	background-image: url("action/assignment_turned_in.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-history {
+	background-image: url("action/history.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-query-builder {
+	background-image: url("action/query_builder.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-power-settings-new {
+	background-image: url("action/power_settings_new.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-data-setting {
+	background-image: url("action/perm_data_setting.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-overscan {
+	background-image: url("action/settings_overscan.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-shop {
+	background-image: url("action/shop.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-thumb-up {
+	background-image: url("action/thumb_up.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-phone-msg {
+	background-image: url("action/perm_phone_msg.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-favorite {
+	background-image: url("action/favorite.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-cached {
+	background-image: url("action/cached.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-lock {
+	background-image: url("action/lock.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-date-range {
+	background-image: url("action/date_range.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-carousel {
+	background-image: url("action/view_carousel.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-code {
+	background-image: url("action/code.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-build {
+	background-image: url("action/build.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-group-work {
+	background-image: url("action/group_work.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-favorite-border {
+	background-image: url("action/favorite_border.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-invert-colors {
+	background-image: url("action/invert_colors.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-assignment-return {
+	background-image: url("action/assignment_return.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-account-box {
+	background-image: url("action/account_box.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-language {
+	background-image: url("action/language.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-alarm {
+	background-image: url("action/alarm.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-search {
+	background-image: url("action/search.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-assignment-returned {
+	background-image: url("action/assignment_returned.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-bug-report {
+	background-image: url("action/bug_report.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-https {
+	background-image: url("action/https.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-toc {
+	background-image: url("action/toc.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-account-circle {
+	background-image: url("action/account_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-dashboard {
+	background-image: url("action/dashboard.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-toll {
+	background-image: url("action/toll.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-done {
+	background-image: url("action/done.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-turned-in {
+	background-image: url("action/turned_in.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-explore {
+	background-image: url("action/explore.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-remote {
+	background-image: url("action/settings_remote.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-check-circle {
+	background-image: url("action/check_circle.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-exit-to-app {
+	background-image: url("action/exit_to_app.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-alarm-add {
+	background-image: url("action/alarm_add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-timeline {
+	background-image: url("action/timeline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-book {
+	background-image: url("action/book.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-http {
+	background-image: url("action/http.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-youtube-searched-for {
+	background-image: url("action/youtube_searched_for.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-perm-contact-calendar {
+	background-image: url("action/perm_contact_calendar.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-card-travel {
+	background-image: url("action/card_travel.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-aspect-ratio {
+	background-image: url("action/aspect_ratio.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-report-problem {
+	background-image: url("action/report_problem.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-card-membership {
+	background-image: url("action/card_membership.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-dns {
+	background-image: url("action/dns.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-restore {
+	background-image: url("action/restore.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-help {
+	background-image: url("action/help.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-cell {
+	background-image: url("action/settings_cell.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-compare-arrows {
+	background-image: url("action/compare_arrows.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-remove-shopping-cart {
+	background-image: url("action/remove_shopping_cart.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-lock-open {
+	background-image: url("action/lock_open.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-open-in-new {
+	background-image: url("action/open_in_new.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-donut-large {
+	background-image: url("action/donut_large.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-power {
+	background-image: url("action/settings_power.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-record-voice-over {
+	background-image: url("action/record_voice_over.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-input-component {
+	background-image: url("action/settings_input_component.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-thumb-down {
+	background-image: url("action/thumb_down.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-input-composite {
+	background-image: url("action/settings_input_composite.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-card-giftcard {
+	background-image: url("action/card_giftcard.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-face {
+	background-image: url("action/face.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-brightness {
+	background-image: url("action/settings_brightness.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-view-column {
+	background-image: url("action/view_column.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-class {
+	background-image: url("action/class.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-extension {
+	background-image: url("action/extension.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-visibility-off {
+	background-image: url("action/visibility_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-highlight-off {
+	background-image: url("action/highlight_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-hourglass-full {
+	background-image: url("action/hourglass_full.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-rounded-corner {
+	background-image: url("action/rounded_corner.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-chrome-reader-mode {
+	background-image: url("action/chrome_reader_mode.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-flip-to-front {
+	background-image: url("action/flip_to_front.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-shopping-basket {
+	background-image: url("action/shopping_basket.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-open-in-browser {
+	background-image: url("action/open_in_browser.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-payment {
+	background-image: url("action/payment.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-feedback {
+	background-image: url("action/feedback.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-trending-up {
+	background-image: url("action/trending_up.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-settings-input-svideo {
+	background-image: url("action/settings_input_svideo.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-action-tab-unselected {
+	background-image: url("action/tab_unselected.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-whatshot {
+	background-image: url("social/whatshot.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-poll {
+	background-image: url("social/poll.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-notifications-active {
+	background-image: url("social/notifications_active.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-notifications {
+	background-image: url("social/notifications.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-people {
+	background-image: url("social/people.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-notifications-paused {
+	background-image: url("social/notifications_paused.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-pages {
+	background-image: url("social/pages.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-sentiment-dissatisfied {
+	background-image: url("social/sentiment_dissatisfied.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-people-outline {
+	background-image: url("social/people_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-location-city {
+	background-image: url("social/location_city.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-mood {
+	background-image: url("social/mood.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-sentiment-very-satisfied {
+	background-image: url("social/sentiment_very_satisfied.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-plus-one {
+	background-image: url("social/plus_one.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-person-add {
+	background-image: url("social/person_add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-mood-bad {
+	background-image: url("social/mood_bad.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-notifications-none {
+	background-image: url("social/notifications_none.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-sentiment-satisfied {
+	background-image: url("social/sentiment_satisfied.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-person {
+	background-image: url("social/person.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-public {
+	background-image: url("social/public.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-person-outline {
+	background-image: url("social/person_outline.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-sentiment-neutral {
+	background-image: url("social/sentiment_neutral.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-cake {
+	background-image: url("social/cake.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-domain {
+	background-image: url("social/domain.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-group {
+	background-image: url("social/group.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-notifications-off {
+	background-image: url("social/notifications_off.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-group-add {
+	background-image: url("social/group_add.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-party-mode {
+	background-image: url("social/party_mode.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-sentiment-very-dissatisfied {
+	background-image: url("social/sentiment_very_dissatisfied.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-school {
+	background-image: url("social/school.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.gmi-social-share {
+	background-image: url("social/share.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
